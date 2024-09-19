@@ -2,7 +2,7 @@
 const getGameInfo = (req, res) => {
     res.json({
         titulo: "EA FC 24",
-        descricao: "Jogo ruim da porra, cheio de bug e dos caralho quatro, handicap pra todo lado, vamo ve de consertar isso logo"
+        descricao: "Jogo ruim, cheio de bug e tudo mais, handicap pra todo lado, vamo ve de consertar isso logo"
     });
 };
 
