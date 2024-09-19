@@ -19,7 +19,7 @@ const getPlayers = (req, res) => {
     });
 };
 
-//data de lançamento dessa porra de jogo
+//data de lançamento jogo
 const getReleaseDate = (req, res) => {
     res.json({
         dataLancamento: "29 de setembro de 2023"
